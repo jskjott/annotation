@@ -26,7 +26,7 @@ Annotation can be condensing/curating/commenting/elaborating. Annotation systems
 
 Its format is open – students trace, redraw, photocopy, layer over the page they analyze with acetate – anything in which they engage with the work in an intimate and visual way. Drawing directly on the page is key! This active interaction with the composition invites them to start noticing everything the author(s) employs to construct meaning. After students move their hand and eyes over a page for an extended period – I suggest at least half an hour – so much spills out as they discover all sorts of things about the maker’s choices and creative decisions not previously apparent. They find every square inch invested in meaning. Students develop their own coding strategies, diagram, work in multiple layers – the results are frequently this beautiful and insightful explosion of thinking. It’s not that doing analysis solely in writing can’t be extremely insightful (of course it can), but in my experience, this direct engagement of hand and eyes opens students to seeing in ways they couldn’t otherwise. (They can always turn their annotations into essays afterwards if so desired, but the thinking is in that direct spatial engagement.)"
 
-<img src="http://spinweaveandcut.com/wp-content/uploads/2019/08/vis-analysis-12.jpg" height="200">
+<img src="http://spinweaveandcut.com/wp-content/uploads/2019/08/vis-analysis-12.jpg" height="500">
 
 <br>
 
