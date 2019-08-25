@@ -51,4 +51,22 @@ to design for their significance,
 just as designs are illuminated
 through annotation.
 
+<br>
+
+### Zeros + Ones by Sadie Plant
+
+<a href="http://beforebefore.net/digitalstudio/s18/media/01sadieplant.pdf">source</a>
+
+"When Ada wrote her footnotes to Menabrea's text, her work was implicitly supposed to be reinforcing these hierarchical divisions between centers and margins, authors and scribes. Menabrea's memoir was the leading article; Ada's work was merely a compilation of supporting detail, secondary commentary, material intended to back the author up. But her notes made enormous leaps of both quantity and quality beyond a text which turned out merely to be providing the occasion for her work.
+
+Only when digital networks arranged themselves in threads and links did footnotes begin to walk all over what had once been the bodies of organized texts. Hypertext programs and the Net are webs of footnotes without central points, organizing principles, hierarchies. Such networks are unprecedented in terms of their scope, complexity, and the pragmatic possibilities of their use. And yet they are also--and have always been--immanent to all and every piece of written work."
+
+<br>
+
+### ~
+
+
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/2573278/original_375da73d37d4ee36a4390682819a6fd7.jpg?1534687304" height="400">
+
+
 
